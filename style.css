@@ -1,0 +1,30 @@
+#imagen{text-align: center;
+font-size: 35px;
+background-color: #E5E5E5;
+;}
+h1{font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: #005677;
+text-align: center;
+background-color: #C4C4C4;
+;}
+#espacio{font-size: 400px;}
+.Titulos{font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: #005677;
+    ;
+text-align: left;
+background-color: #C4C4C4;;}
+.parrafo{font-family: sans-serif;
+font-size: 15px;}
+.bold{font-weight: bold;}
+.padding{
+    padding-left: 80px;
+    line-height: 0.5px;
+}
+footer{background-color: #005677;
+    ;}
